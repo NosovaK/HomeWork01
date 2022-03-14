@@ -1,0 +1,33 @@
+div {
+	background-color: blanchedalmond;
+	max-width: 600px;
+	padding: 30px;
+	border: 1px solid black;
+}
+
+div p {
+	text-align: left;
+	background-color: blanchedalmond;
+	margin: 10px;
+}
+
+img {
+	border: 2px solid blanchedalmond;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+}
+#float-left {
+	float: left;
+	margin-right: 10px;
+}
+#float-right {
+	float: right;
+	margin-right: 10px;
+	width: 50%;
+}
+h2 {
+	min-width: 137px;
+}
